@@ -442,7 +442,7 @@ font-size: 10pt;
 .navbar-default .textcostume {
  border-color: #fff;
 }
-.navbar-default .textcostume . {
+.navbar-default .textcostume {
  border-color: #fff;
 }
 .navbarborder>li{
@@ -1578,10 +1578,6 @@ left: 0%;
          padding-left: 20px;
 
      }
-     .bottomlinks>li>a{
-         
-
-     }
      .bottomlinks>li{
      float: none;
  text-align: center;
@@ -1607,10 +1603,6 @@ left: 0%;
      }
      .bottomlinks>{
          padding-left: 20px;
-
-     }
-     .bottomlinks>li>a{
-         
 
      }
      .bottomlinks>li{
