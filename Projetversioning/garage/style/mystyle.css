@@ -15,7 +15,7 @@
 	margin-right: auto;
 }
 .header{
-	background-color: #191919;
+	background-color: #4f8888;
 	
 }
 .header .container{
@@ -202,11 +202,11 @@ padding-left: 5%;
 #navbarontop .open > a:hover,
 #navbarontop .open > a:focus {
 	background-color: none!important;
-  border-color: #C59E47;
+  border-color: #4f8888;
 }
 #navbarontop a:focus {
   outline: none;
-  border-bottom: 2px solid #C59E47; 
+  border-bottom: 2px solid #4f8888; 
 }
 .navbar-default .navbar-nav .open .dropdown-menu > li > a {
 	font-family: 'BebasNeue Regular';
@@ -354,7 +354,7 @@ float: right;
 	src:url(../source/fonts/OpenSans-Regular.ttf) format("truetype");
 }
 .carousel-caption>h2>p{
-font-family: :'OpenSans Regular';
+font-family: 'OpenSans Regular';
 font-size: 15.88pt;
 }
 .carousel-caption {
@@ -384,7 +384,7 @@ font-size: 10pt;
 	padding-left: 40px;
 }
 .midle-nav{
-	background: rgba(248,199,45,.8);
+	background: #4f8888;
  	border: 0px;
  	position: absolute;
  	bottom: 0px;
@@ -676,7 +676,7 @@ padding-left: 0px;
 .midle-nav{
 		position:relative;
 		top:0px;
-		background: rgba(248,199,45,.9)
+		background: #4f8888
 	}
 	.navbarborder{
 		margin-left: 0px;
@@ -1621,7 +1621,7 @@ background-color: #191919;
 color: #fff;
 font-family: "Roboto Light";
 font-size: 12px;
-
+background-color: #4f8888;
 width: 100%;
 height: 30px;
  
