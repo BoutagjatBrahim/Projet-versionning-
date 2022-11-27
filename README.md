@@ -6,9 +6,7 @@
 * [Technologies](#technologies)
 * [Organisation](#organisation)
 * [Fonctionnalités](#fonctionnalités)
-* [Chambre des améliorations](#chambre-des-améliorations)
 * [Les acquis](#les-acquis)
-* [Remerciement](#remerciement)
 * [Contact](#contact)
 
 ## Informations générales
@@ -28,12 +26,23 @@
 
 ## Organisation
   * Ancien projet
-  - Sur le plan organisationnel, nous avons eu quelques problèmes mineurs, où la répartition des tâches fonctionnait très bien sauf que nous avons finalement réalisé une erreur majeure.
+    - Sur le plan organisationnel, nous avons eu quelques problèmes mineurs, où la répartition des tâches fonctionnait très bien sauf que nous avons finalement réalisé une erreur majeure.
 Le principal défaut est la création de tags + pull requests lorsque la continuité des tâches réalisées est mesurée.
 Mais à part cela, nous sommes organisés au niveau de l'équipe car nous avons des réunions régulières au cours desquelles nous évaluons ce qui doit être fait et ce qui ne l'est pas.
 
   * Nouveau projet
-  - C'est donc pourquoi à la des tache terminé on a décider de recréer un repos git dans le quel ona défini une autre 
+    -  C'est donc pourquoi les taches terminées on a décidé de recréer un repos git. Pour commencer on a défini une nouvelle architecture de branche git illustrer ci-dessus. 
+    -  Pour chaque personne on a décidé de créer une branche à partir de la branche master ou il faudra faire les modifications. 
+    -  Brahim : Page Catégorie
+    -  Amine : Page Home
+    -  Frédéric : Page Dealer
+    -  Michael : Page contacte + login
+    -  Michael : Page contacte + login 
+  
+ * À partir du schéma ci-dessus, on a fait quatre « pull request » sur la branche dev. Enfin on a merge la branche dev sur la branche principale. 
+    
+
+
 
 
 ## Fonctionnalité
@@ -102,15 +111,15 @@ Mais à part cela, nous sommes organisés au niveau de l'équipe car nous avons 
     ** Modifications du site settings dans Netlify **
     - Build & Deploy > Build Settings > publish directory (ProjetVersionning/garage). 
     
-    
-## Chambre des améliorations
-
-
 
 ## Les acquis
+- Travailler de façon collaborative :  travailler ensemble sans se gêner mutuellement. Chacun peut voir et savoir ce que les autres font en temps réel
+- Gagner du temps
+- Partager les solutions ensemble suite à la rencontre d'un problème 
+- Gérer le stress 
+- Une bonne coordination et une collaboration fluide 
+- Réferencement des modifications  et des anciennes versions
 
-
-## Remerciement
 
 ## Contact
 Created by 
