@@ -2,8 +2,8 @@
 [build]
   #command = "npm run build"
   #functions = "netlify/functions"
-  base = "Projet-versionning-"
-  publish = "Projet-versionning-/Projetversioning/garage"
+  base = ""
+  publish = "Projetversioning/garage"
   
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
