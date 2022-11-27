@@ -49,7 +49,12 @@ Mais à part cela, nous sommes organisés au niveau de l'équipe car nous avons 
 
 
 ## Les acquis
-
+- Travailler de façon collaborative :  travailler ensemble sans se gêner mutuellement. Chacun peut voir et savoir ce que les autres font en temps réel
+- Gagner du temps
+- Partager les solutions ensemble suite à la rencontre d'un problème 
+- Gérer le stress 
+- Une bonne coordination et une collaboration fluide 
+- Réferencement des modifications  et des anciennes versions
 
 ## Remerciement
 
